@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="beige">#F5CEA7</color>
+    <color name="beige1">#ddcdc2</color>
+    <color name="black">#FF000000</color>
+    <color name="gray">#808080</color>
+    <color name="green">#39FF14</color>
+    <color name="green_Neon">#B2FF59</color>
+    <color name="mypink">#F76278</color>
+    <color name="mypurple">#A15CC6</color>
+    <color name="newPurple">#98508E</color>
+    <color name="orange">#FF7600</color>
+    <color name="purple">#7A4FE4</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#FF1818</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="item_horizontal_margin">16dp</dimen>
+    <string name="app_name">ContactApp</string>
+    <string name="default_web_client_id" translatable="false">125932131482-hlbd9knshufpi8rvvvssf5l16cs3f5am.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://projiot-3c780-default-rtdb.firebaseio.com</string>
+    <string name="firstname_acc">firstname_acc</string>
+    <string name="gcm_defaultSenderId" translatable="false">125932131482</string>
+    <string name="google_api_key" translatable="false">AIzaSyA1vhIKh-fBIexeyQykFZDbZ2YHx76FFMc</string>
+    <string name="google_app_id" translatable="false">1:125932131482:android:7dec5d34368096fe733b23</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA1vhIKh-fBIexeyQykFZDbZ2YHx76FFMc</string>
+    <string name="google_storage_bucket" translatable="false">projiot-3c780.appspot.com</string>
+    <string name="project_id" translatable="false">projiot-3c780</string>
+    <style name="Theme.ContactApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

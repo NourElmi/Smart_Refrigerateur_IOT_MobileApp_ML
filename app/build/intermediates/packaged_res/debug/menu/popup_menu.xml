@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/call"
+            android:icon="@drawable/baseline_call_24"
+            android:title="Appeler" />
+        <item
+            android:id="@+id/whatsapp"
+           android:icon="@drawable/baseline_add_whatsapp_24"
+            android:title="WhatsApp"/>
+        <item
+            android:id="@+id/sms"
+            android:icon="@drawable/baseline_sms_24"
+            android:title="message"/>
+        <item
+            android:id="@+id/email"
+           android:icon="@drawable/twotone_alternate_email_24"
+            android:title="email"/>
+
+</menu>

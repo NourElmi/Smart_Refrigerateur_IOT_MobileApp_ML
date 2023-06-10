@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/lockSettings"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:background="@drawable/mealdetailshapeliste"
+        android:layout_alignParentTop="true"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="53dp"
+        android:textStyle="bold|italic"
+        android:textAlignment="center"
+        android:textColorHint="@color/white"
+        android:layout_marginTop="25dp"
+        android:fontFamily="@font/dancingscriptbold"
+        android:hint="FaceId lock Control"/>
+
+    <ImageView
+        android:id="@+id/addImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/portefermee"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/lockSettings"
+        android:layout_centerVertical="false"
+        android:layout_marginTop="30dp"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/removeImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/lockSettings"
+        android:layout_centerVertical="false"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/porte_ouverte"
+        android:visibility="gone" />
+
+    <Button
+
+        android:id="@+id/openButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/addImageView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="446dp"
+        android:backgroundTint="#21252A"
+        android:text="open" />
+
+
+    <Button
+        android:id="@+id/closeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="443dp"
+        android:layout_marginEnd="11dp"
+        android:backgroundTint="#21252a"
+        android:text="close" />
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:menu="@menu/bottom_nav_manu" />
+
+
+</RelativeLayout>

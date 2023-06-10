@@ -1,0 +1,198 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/meal_img"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@drawable/mealdetailshape"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true">
+
+        <ImageView
+            android:id="@+id/image_Meal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/Meal_Info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_below="@id/meal_img"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:id="@+id/Meal_Name_Rate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/Meal_Name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/notosans_semibolditalic"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="@color/mypink"
+                android:layout_below="@id/meal_img"
+                android:hint="sdfghjkl" />
+                <LinearLayout
+                    android:id="@+id/rateMeal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/Meal_Name"
+
+                    android:layout_marginBottom="10dp"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:background="@drawable/baseline_star_rate_24"/>
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:background="@drawable/baseline_star_rate_24"/>
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:background="@drawable/baseline_star_rate_24"/>
+                    <ImageView
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:background="@drawable/baseline_star_rate_24"/>
+
+                </LinearLayout>
+        </LinearLayout>
+        <Button
+            android:id="@+id/fav_meal_button"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/baseline_favorite1_border_24"/>
+    </LinearLayout>
+    <!-- Add the line here -->
+    <View
+        android:id="@+id/line1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/Meal_Info"
+        android:layout_marginHorizontal="20dp"
+        android:background="@color/gray" />
+    <LinearLayout
+        android:id="@+id/Meal_Details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:gravity="center_horizontal"
+        android:layout_below="@id/line1"
+        android:orientation="horizontal"
+        android:layout_marginVertical="25dp">
+
+        <ImageView
+            android:id="@+id/eco_Score"
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="25dp"
+            android:background="@drawable/nutriscore3"
+            android:layout_gravity="start"/>
+
+        <TextView
+            android:id="@+id/ecoScore"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="ecoScore"
+            android:textSize="10dp"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="10dp" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/baseline_person_24"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/nbrPersonne"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="nbrPersonne"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:textSize="10sp"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="3dp" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/baseline_time_24"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/meal_Time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="meal_Time"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:textSize="10sp"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="3dp" />
+
+    </LinearLayout>
+
+
+    <!-- Add the line here -->
+    <View
+        android:id="@+id/line2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/Meal_Details"
+        android:layout_marginHorizontal="20dp"
+        android:background="@color/gray" />
+
+    <EditText
+        android:id="@+id/search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/line2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginVertical="10dp"
+        android:textColorHighlight="@color/mypink"
+        android:drawableLeft="@drawable/baseline_search_24"
+        android:hint="Chercher un ingrédient"
+        android:paddingVertical="8dp"
+        android:paddingLeft="5dp" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/search"
+        android:layout_weight="30"
+        android:layout_marginTop="10dp"
+        >
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/list_Ingredients_Meal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+    </ScrollView>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:menu="@menu/bottom_nav_manu" />
+
+</RelativeLayout>

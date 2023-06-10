@@ -1,0 +1,826 @@
+[
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_phone.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/phone.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_person_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_frigbas.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/frigbas.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_add_whatsapp_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_add_whatsapp_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temphum14.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temphum14.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temp_hum3.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temp_hum3.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_lock8.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/lock8.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_nutriscore3.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/nutriscore3.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_frigporte.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/frigporte.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_delete.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_delete.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_imprime6.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/imprime6.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_impr2.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/impr2.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_contact_item_layout_delete.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/contact_item_layout_delete.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_bckkk1.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/bckkk1.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_door_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_door_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_choisir_etage.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_choisir_etage.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_market_item_layout.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/market_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_email_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_refre_produits.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_refre_produits.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/font_shantellsans_regular.ttf.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/font/shantellsans_regular.ttf"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_peachycolor.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/peachycolor.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_whatsapp.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/whatsapp.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_top_button_background.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/top_button_background.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_menu_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_menu_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_time_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_time_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_ajouter_contact.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_ajouter_contact.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_amalana.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/amalana.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable-ldpi_profile.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable-ldpi/profile.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_peachycolor3.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/peachycolor3.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_sms_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_sms_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_top_background.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/top_background.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_lock13.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/lock13.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_settings.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_bckkk2.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/bckkk2.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_talk_2.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/talk_2.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_lock1.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/lock1.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_bckkk7.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/bckkk7.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_frigo_bas.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_frigo_bas.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temphum13.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temphum13.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_mealdetailshape.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/mealdetailshape.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_home_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_peachycolor5.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/peachycolor5.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_humv2.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/humv2.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_search_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_search_veiw_bg.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/search_veiw_bg.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_contact_item_layout.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/contact_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_talk_bkg.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/talk_bkg.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_password_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_password_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_lock12.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/lock12.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_user_item_layout.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/user_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_talk_3.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/talk_3.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/font_dancingscriptbold.ttf.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/font/dancingscriptbold.ttf"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_business_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_business_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable-ldpi_ic_3.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable-ldpi/ic_3.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_shaaape.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/shaaape.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_details_user.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_details_user.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_edit.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_edit.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_humv.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/humv.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_bckkk6.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/bckkk6.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temphum11.avif.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temphum11.avif"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_share_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_share_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_noshop.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_noshop.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temphum9.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temphum9.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_phone1.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/phone1.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_ingeredent_item_layout.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/ingeredent_item_layout.xml"
+    },
+    {
+        "merged": "com.example.contactapp-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.example.contactapp-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_phone_com.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/phone_com.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_bluebck2.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/bluebck2.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temp_hum2.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temp_hum2.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_peachycolor2.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/peachycolor2.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_call.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/call.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_more_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_more_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_love.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/love.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_contact_bkg1.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/contact_bkg1.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_imprime8.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/imprime8.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable-ldpi_top_background.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable-ldpi/top_background.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_phone_comm.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/phone_comm.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_lock10.avif.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/lock10.avif"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_humv3.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/humv3.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_profile.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_onoffbtt.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/onoffbtt.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_loginbkg.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/loginbkg.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_meal_item_layout.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/meal_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_imprime2.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/imprime2.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_loca.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/loca.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temphum7.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temphum7.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/menu_admin_menu.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/menu/admin_menu.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_display_settings_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_display_settings_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temphum15.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temphum15.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temv2.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temv2.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_face_id_open_door.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_face_id_open_door.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_gmail.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/gmail.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_imprime4.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/imprime4.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_meals_list.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_meals_list.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_users_messages.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_users_messages.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_pinklight.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/pinklight.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_contact_item_layout_add.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/contact_item_layout_add.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_favorite_border_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_hourglass_bottom_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_hourglass_bottom_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_bluebckg1.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/bluebckg1.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_date_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_date_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_service_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_service_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_button_background1.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/button_background1.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_liste_contacts.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_liste_contacts.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_modifieruser.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_modifieruser.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_porte_ouverte.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/porte_ouverte.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_peachycolor1.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/peachycolor1.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_add_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temphum21.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temphum21.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_lock2.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/lock2.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_call_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_call_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temphum.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temphum.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_logback2.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/logback2.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_etage_frigo.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/etage_frigo.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/font_ptserif_bolditalic.ttf.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/font/ptserif_bolditalic.ttf"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_frigobas_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_frigobas_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/menu_popup_menu.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/menu/popup_menu.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temv1.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temv1.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_logback1.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/logback1.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_custom_edittext.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/custom_edittext.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_onoff.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/onoff.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temphum16.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temphum16.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_mealslistbackgnd.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/mealslistbackgnd.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_lock.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/lock.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_portefermee.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/portefermee.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_market_item_shoplist_layout.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/market_item_shoplist_layout.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_star_rate_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_star_rate_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_more_vert_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/font_notosans_semibolditalic.ttf.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/font/notosans_semibolditalic.ttf"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_bkg_detcont.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/bkg_detcont.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_favorite1_border_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_favorite1_border_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_bckkk5.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/bckkk5.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable-ldpi_ic_2.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable-ldpi/ic_2.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_twotone_alternate_email_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/twotone_alternate_email_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_detail_contact.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/detail_contact.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temphum20.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temphum20.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temp_huh1.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temp_huh1.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_message.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/message.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_lock4.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/lock4.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_ajouter_market.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_ajouter_market.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_prote_prduits.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_prote_prduits.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_meals_details.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_meals_details.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_imprime1.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/imprime1.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_pinklight1.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/pinklight1.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_bckkk3.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/bckkk3.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_rounded_shape.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/rounded_shape.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_lock11.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/lock11.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_humv1.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/humv1.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_mealdetailshapeliste.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/mealdetailshapeliste.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_read_more_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_read_more_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temv.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temv.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_phone_forwarded_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_phone_forwarded_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_white_background.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/white_background.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_market_list.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_market_list.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_talk123.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/talk123.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_salade.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/salade.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temphum12.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temphum12.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_bluebckg.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/bluebckg.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_lock3.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/lock3.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_liste_favoris.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_liste_favoris.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_ic_launcher_background1.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/ic_launcher_background1.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_imprime5.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/imprime5.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_frighaut.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/frighaut.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temp.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temp.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/menu_bottom_nav_manu.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/menu/bottom_nav_manu.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_location_on_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_location_on_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temphum8.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temphum8.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_temphum10.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/temphum10.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable-ldpi_ic_1.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable-ldpi/ic_1.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_whatshot_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_whatshot_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_lock5.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/lock5.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_hourglass_top_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_hourglass_top_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_shopping_cart_checkout_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_shopping_cart_checkout_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_logback.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/logback.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_logback4.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/logback4.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_contact_1.png.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/contact_1.png"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_lock_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_calendar_month_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/font_ptserif_italic.ttf.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/font/ptserif_italic.ttf"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_imprime3.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/imprime3.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_logout_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_logout_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_impr1.jpeg.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/impr1.jpeg"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_baseline_star_24.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/baseline_star_24.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_detail_contact.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_detail_contact.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/layout_activity_user_list.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/layout/activity_user_list.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_button_background.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/button_background.xml"
+    },
+    {
+        "merged": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-merged_res-36:/drawable_ic_action_favori_share.xml.flat",
+        "source": "/Users/nour-elmi/.gradle/daemon/7.5/com.example.contactapp-main-38:/drawable/ic_action_favori_share.xml"
+    }
+]

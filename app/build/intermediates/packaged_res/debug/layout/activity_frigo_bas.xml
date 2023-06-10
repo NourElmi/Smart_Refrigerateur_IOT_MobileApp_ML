@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="">
+    <!-- Toolbar -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/contact_detail_Toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/menu_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:src="@drawable/baseline_menu_24"
+                android:paddingTop="10dp"
+                android:paddingEnd="16dp"
+                />
+            <ImageView
+                android:id="@+id/favoris_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/baseline_star_24"
+                android:layout_toStartOf="@id/logout_button"
+                android:layout_alignBaseline="@id/logout_button"
+                android:paddingTop="10dp"
+                android:paddingEnd="16dp"/>
+            <ImageView
+                android:id="@+id/logout_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/baseline_logout_24"
+                android:layout_alignParentEnd="true"
+                android:paddingTop="10dp"
+                android:paddingEnd="16dp"/>
+        </RelativeLayout>
+
+    </androidx.appcompat.widget.Toolbar>
+    <EditText
+        android:id="@+id/search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/search_veiw_bg"
+        android:drawableLeft="@drawable/baseline_search_24"
+        android:hint="Chercher un contact"
+        android:layout_margin="10dp"
+        android:paddingLeft="5dp"
+        android:paddingVertical="8dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_weight="3"
+        android:background="@drawable/etage_frigo">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/list_contacts"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </ScrollView>
+
+
+</LinearLayout>

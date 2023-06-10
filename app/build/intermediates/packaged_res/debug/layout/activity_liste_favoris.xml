@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity=""
+    android:orientation="vertical">
+
+
+    <!-- Toolbar -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/contact_detail_Toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/back_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:paddingTop="10dp"
+                android:paddingEnd="16dp"
+                android:src="@drawable/baseline_arrow_back_24" />
+            <!--            <ImageView-->
+            <!--                android:id="@+id/favoris_button"-->
+            <!--                android:layout_width="wrap_content"-->
+            <!--                android:layout_height="wrap_content"-->
+            <!--                android:src="@drawable/baseline_star_24"-->
+            <!--                android:layout_toStartOf="@id/logout_button"-->
+            <!--                android:layout_alignBaseline="@id/logout_button"-->
+            <!--                android:paddingTop="10dp"-->
+            <!--                android:paddingEnd="16dp"/>-->
+            <ImageView
+                android:id="@+id/logout_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:paddingTop="10dp"
+                android:paddingEnd="16dp"
+                android:src="@drawable/baseline_logout_24" />
+        </RelativeLayout>
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <EditText
+        android:id="@+id/search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="10dp"
+        android:background="@drawable/search_veiw_bg"
+        android:drawableLeft="@drawable/baseline_search_24"
+        android:hint="Chercher un Produit"
+        android:layout_marginHorizontal="20dp"
+        android:paddingVertical="8dp"
+        android:paddingLeft="5dp" />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <!-- Add the line here -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:layout_below="@id/Meal_Info"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/mypurple" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:fontFamily="@font/ptserif_bolditalic"
+            android:textColorHint="@color/black"
+            android:hint="Suggestions des Markets Pour Vous"/>
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_weight="3">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/list_magasin"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </ScrollView>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:text="Your Shopping List"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/ptserif_bolditalic"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="15dp" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_weight="3">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/list_contacts"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/addshop"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_gravity="end"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="@color/green_Neon"
+        android:textColor="@color/black"
+        android:text="add product to your shopping list"
+        />
+
+
+</LinearLayout>

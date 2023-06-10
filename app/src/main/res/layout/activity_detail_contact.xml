@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Toolbar -->
+   <androidx.appcompat.widget.Toolbar
+       android:id="@+id/contact_detail_Toolbar"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                    android:id="@+id/back_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/baseline_arrow_back_24"
+                    android:layout_alignParentStart="true"
+                    android:paddingStart="10dp"/>
+
+            <ImageView
+                    android:id="@+id/favorite_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/baseline_star_24"
+                    android:layout_toStartOf="@id/share_button"
+                    android:layout_alignBaseline="@id/share_button"
+
+                    android:paddingEnd="16dp"/>
+
+            <ImageView
+                    android:id="@+id/share_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/baseline_share_24"
+                    android:layout_alignParentEnd="true"
+                    android:paddingEnd="16dp"/>
+        </RelativeLayout>
+
+   </androidx.appcompat.widget.Toolbar>
+    <FrameLayout
+        android:id="@+id/contact_detail_card"
+        android:layout_below="@+id/contact_detail_Toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/impr2">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_gravity="center_horizontal"
+            app:cardCornerRadius="100dp"
+            android:layout_marginTop="30dp"
+            app:cardElevation="30dp">
+
+            <ImageView
+                android:id="@+id/photo_contact"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:scaleType="centerCrop" />
+
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:id="@+id/my_card_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="8dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/identification_contact"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                  android:layout_margin="15dp"
+                    android:text="Nom Complet du contact"
+                    android:textAlignment="center"
+                    android:textSize="30dp"
+                    android:textStyle="bold|italic" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:text="Service:"
+                        android:textAlignment="center"
+                        android:textColor="@color/mypurple"
+                        android:textSize="28dp"
+                        android:textStyle="italic" />
+
+                    <TextView
+                        android:id="@+id/service_contact"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Service du contact"
+                        android:textAlignment="center"
+                        android:textSize="26dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:text="Tel:"
+                        android:textColor="@color/mypurple"
+                        android:textSize="28dp"
+                        android:textStyle="italic" />
+
+                    <TextView
+                        android:id="@+id/Tel_contact"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Tel du contact"
+                        android:textSize="28dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:orientation="horizontal"
+                    android:layout_marginBottom="15dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:text="Email:"
+                        android:textColor="@color/mypurple"
+                        android:textSize="28dp"
+                        android:textStyle="italic" />
+
+                    <TextView
+                        android:id="@+id/email_contact"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="email du contact"
+                        android:textSize="28dp" />
+
+                </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="bottom">
+
+                <ImageView
+                    android:id="@+id/call"
+                    android:paddingTop="3dp"
+
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/call"
+                    android:layout_weight="1"/>
+
+                <ImageView
+                    android:id="@+id/email"
+                    android:paddingTop="3dp"
+                    android:paddingBottom="2dp"
+                    android:layout_width="28dp"
+                    android:layout_height="28dp"
+                    app:srcCompat="@drawable/gmail"
+                    android:layout_weight="1"/>
+
+                <ImageView
+                    android:id="@+id/sms"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    app:srcCompat="@drawable/message"
+                    android:layout_weight="1"/>
+
+                <ImageView
+                    android:id="@+id/whatsapp"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    app:srcCompat="@drawable/whatsapp"
+
+                    android:layout_weight="1"/>
+
+            </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </FrameLayout>
+    <androidx.cardview.widget.CardView
+        android:id="@+id/taches"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_toEndOf="@+id/contact_detail_card"
+        android:layout_alignParentEnd="true"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="8dp">
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></EditText>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
